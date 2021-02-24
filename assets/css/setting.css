@@ -1,16 +1,15 @@
 /* @import '../font/stylesheet.css'; */
 
 :root {
-  --primary-color: #272343;
-  --sub-color: #2d334a;
-  --highlight-color: #ffd803;
-  --bg: #fffffe;
-  --bg-sidebar: #eff0f3;
-  --bg-intro: #e3f6f5;
-  --white: white;
-  --black: black;
-  --primary-font: 'sans-serif';
-  --secondary-font: 'arial';
+  --color-header-text: #aaa;
+  --color-bg-header: #aaa;
+  --color-highlight: #bbb;
+  --color-bg-intro: #ccc;
+  --color-btn: #ddd;
+  --color-white: white;
+  --color-black: black;
+  --font-primary: 'sans-serif';
+  --font-secondary: 'arial';
   --wrapper: 192rem;
   --container: 117rem;
 }
