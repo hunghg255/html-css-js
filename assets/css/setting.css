@@ -89,13 +89,10 @@ a {
 
 /* PC >= 1024px */
 @media (min-width: 64em) {
-
 }
 /* Tablet 740px - 1023px*/
 @media (min-width: 46.25em) and (max-width: 63.9375em) {
-
 }
 /* Mobile <= 740px*/
 @media (max-width: 46.25em) {
-
 }
